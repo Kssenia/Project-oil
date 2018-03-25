@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Proba Pro Regular';
+  src: url('../fonts/Proba Pro Regular/Proba Pro Regulart.eot');
+  src: url('../fonts/Proba Pro Regular/Proba Pro Regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Proba Pro Regular/Proba Pro Regular.woff') format('woff'),
+       url('../fonts/Proba Pro Regular/Proba Pro Regular.ttf') format('truetype'),
+       url('../fonts/Proba Pro Regular/Proba Pro Regular.svg#Proba Pro Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
