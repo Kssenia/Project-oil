@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Proba Pro Regular';
-  src: url('../fonts/Proba Pro Regular/Proba Pro Regulart.eot');
-  src: url('../fonts/Proba Pro Regular/Proba Pro Regular.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/Proba Pro Regular/Proba Pro Regular.woff') format('woff'),
-       url('../fonts/Proba Pro Regular/Proba Pro Regular.ttf') format('truetype'),
-       url('../fonts/Proba Pro Regular/Proba Pro Regular.svg#Proba Pro Regular') format('svg');
+  src: url('../fonts/proba_pro.eot');
+  src: url('../fonts/proba_pro.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/proba_pro.woff') format('woff'),
+       url('../fonts/proba_pro.ttf') format('truetype'),
+       url('../fonts/proba_pro.svg#Proba Pro Regular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
